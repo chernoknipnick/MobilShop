@@ -5,7 +5,9 @@ public class Main {
         System.out.println("Hello world!");
 
         Product Car = new Product();
+        Product Car2 = new Product();
         Car.getProduct();
+        Car2.getProduct();
     }
 
 }
