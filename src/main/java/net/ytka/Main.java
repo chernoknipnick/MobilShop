@@ -8,6 +8,7 @@ public class Main {
         Product Car2 = new Product();
         Car.getProduct();
         Car2.getProduct();
+        Car2.getProduct();
     }
 
 }
